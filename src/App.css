@@ -51,3 +51,14 @@ margin:0 !important;
 .modal-date {
     font-size: 12px;
 }
+
+.side-bar{
+    font-size: 15px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    padding-left:10px;
+}
+.side-bar-count{
+    font-size: 14px;
+
+}
